@@ -7,7 +7,11 @@ This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Lic
 
 BSIMM13-parsable is also licensed by the same license.
 
-This repository contains three versions of easily parsed representations of the BSIMM13 activity data:
+Orignal project artifacts can be downloaded from https://bsimm.com
 
+This repository contains three versions of easily parsed representations of the BSIMM13 activity data:
+* [bsimm13.json](bsimm13.json) JSON Format suitable for python json.load()
+* [bsimm13.csv](bsimm13.csv) Comma Seperated Values suitable for import into Google Sheets or Excel
+* [bsimm13.xls](bsimm13.xls) MS Excel generated from import of CSV.
 
 Coverting the Synopsys BSIMM13 data into this format was sponsored by RTXSecurity, LLC and completed by Kevin Nassery.
