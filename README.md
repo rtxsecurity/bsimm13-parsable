@@ -14,4 +14,4 @@ This repository contains three versions of easily parsed representations of the 
 * [bsimm13.csv](bsimm13.csv) Comma Seperated Values suitable for import into Google Sheets or Excel
 * [bsimm13.xlsx](bsimm13.xlsx) MS Excel generated from import of CSV.
 
-Coverting the Synopsys BSIMM13 data into this format was sponsored by RTXSecurity, LLC and completed by Kevin Nassery.
+Converting the Synopsys BSIMM13 data into this format was sponsored by RTXSecurity, LLC and completed by Kevin Nassery.
